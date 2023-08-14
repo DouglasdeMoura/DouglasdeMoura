@@ -4,9 +4,9 @@ My name is Douglas and I'm a full stack software developer. Here are some techno
 
 - TypeScript;
 - React;
+- Next.js;
 - Python;
 - Flask;
-- FastAPI;
-- Flutter.
+- FastAPI.
 
 You can find more about my experiences and qualifications on my [LinkedIn profile](https://www.linkedin.com/in/dougmoura/).
