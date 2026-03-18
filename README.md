@@ -4,7 +4,7 @@ Software engineer from São Paulo. Career-changer, builder.
 
 ## About
 
-I started in civil engineering — graduated, worked in construction — then made the leap to software. I co-founded [Konkreta](https://konkreta.com.br), Brazil's main concrete ordering platform. Today I build web applications with TypeScript and React, and have been working on AI/LLM systems. Over the years I've shipped design systems, banking apps, auction platforms, and healthcare software for enterprise clients.
+I started in civil engineering — graduated, worked in construction — then made the leap to software. I co-founded [Konkreta](https://konkreta.app), Brazil's main concrete ordering platform. Today I build web applications with TypeScript and React, and have been working on AI/LLM systems. Over the years I've shipped design systems, banking apps, auction platforms, and healthcare software for enterprise clients.
 
 ## Featured projects
 
