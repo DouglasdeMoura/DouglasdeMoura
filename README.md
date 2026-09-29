@@ -4,7 +4,7 @@ I started in civil engineering — graduated, worked in construction — then ma
 
 ## Featured projects
 
-- [chroncal](https://github.com/douglasdemoura/chronca): a calendar TUI for people that live on the terminal
+- [chroncal](https://github.com/douglasdemoura/chroncal): a calendar TUI for people that live on the terminal
 - [douglasmoura.dev](https://github.com/douglasdemoura/douglasmoura.dev): my personal blog (built with RedwoodSDK)
 - [create-editorconfig](https://github.com/douglasdemoura/create-editorconfig): a CLI tool to generate .editorconfig files
 - [natural-forms](https://github.com/douglasdemoura/natural-forms) — Unstyled React form components that leverage native browser features
